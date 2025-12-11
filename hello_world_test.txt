@@ -1,1 +1,3 @@
-Hello World
+function test() {
+  console.log("Hello 🚀");
+}
