@@ -1,1 +1,1 @@
-SGVsb#G8gV29ybGQ==
+This plain text will trigger auto-encoding and should complete successfully
